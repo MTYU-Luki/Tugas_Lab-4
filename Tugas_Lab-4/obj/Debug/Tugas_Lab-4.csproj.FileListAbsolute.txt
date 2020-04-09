@@ -1,0 +1,6 @@
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-4\Tugas_Lab-4\obj\Debug\Tugas_Lab-4.csprojAssemblyReference.cache
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-4\Tugas_Lab-4\bin\Debug\Tugas_Lab-4.exe.config
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-4\Tugas_Lab-4\bin\Debug\Tugas_Lab-4.exe
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-4\Tugas_Lab-4\bin\Debug\Tugas_Lab-4.pdb
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-4\Tugas_Lab-4\obj\Debug\Tugas_Lab-4.exe
+E:\Tugas Perkuliahan\Visual Studi\Tugas_Lab-4\Tugas_Lab-4\obj\Debug\Tugas_Lab-4.pdb
